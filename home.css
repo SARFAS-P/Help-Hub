@@ -2,7 +2,7 @@
 :root{
   --navcolor:white;
   --navfont:black;
-  --green:#06C167;
+  --light blue:#0096FF;
   --box-shadow:0 .5rem 1rem rgba(0,0,0.1)
 }
 *{
@@ -60,7 +60,7 @@ header{
 .nav-bar ul li a.active{
   color:var(--navcolor);
   background-color: var(--navfont);
-  /* border-bottom: 8px solid #06C167; */
+  /* border-bottom: 8px solid #0096FF; */
  
 
 }
@@ -102,7 +102,7 @@ header{
     left: 0;
     right: 0;
     width: 100vw;
-    background-color: #06C167;
+    background-color: #0096FF;
     transition: 0.2s;
     overflow: hidden;
 
@@ -168,7 +168,7 @@ and (min-device-width : 1200px)
 .content
 {
   padding: 20px;
-  background-color: #06C167;
+  background-color: #0096FF;
 
   z-index: 0;
 }
@@ -277,7 +277,7 @@ and (min-device-width : 1200px)
 }
 
 .footer .footer-center p a {
-  color: #06C167;
+  color: #0096FF;
   text-decoration: none;
 }
 
@@ -296,7 +296,7 @@ and (min-device-width : 1200px)
 }
 
 .footer h2 span {
-  color: #06C167;
+  color: #0096FF;
 }
 
 .footer .menu {
@@ -313,7 +313,7 @@ and (min-device-width : 1200px)
 }
 
 .footer .menu a:hover {
-  color: #06C167;
+  color: #0096FF;
 }
 
 .footer .name {
@@ -431,7 +431,7 @@ and (min-device-width : 1200px)
  text-align: center;
  align-items: center; 
  text-decoration: underline 5px;
- text-decoration-color: #06C167;
+ text-decoration-color: #0096FF;
 }
 .heading:hover{
   /* letter-spacing: 3px; */
