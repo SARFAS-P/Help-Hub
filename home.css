@@ -2,7 +2,7 @@
 :root{
   --navcolor:white;
   --navfont:black;
-  --light blue:#0096FF;
+  --light :#0096ff;
   --box-shadow:0 .5rem 1rem rgba(0,0,0.1)
 }
 *{
@@ -210,7 +210,7 @@ and (min-device-width : 1200px)
   background-color: #414141;
   width: 100%;
   text-align: left;
-  font-family: ;
+  font-family:italic ;
   font-weight: bold;
   font-size: 16px;
   padding: 50px;
@@ -317,7 +317,7 @@ and (min-device-width : 1200px)
 }
 
 .footer .name {
-  color: #06C167;
+  color: #0096ff;
   font-size: 14px;
   font-weight: normal;
   margin: 0;
